@@ -1,6 +1,4 @@
-# 🚀 ECS-Course | Python & Veri Analizi Yolculuğu
-
-Bu depo, eğitim sürecim boyunca geliştirdiğim veri bilimi, veri analizi ve yapay zeka çalışmalarını içermektedir. Tüm ders notları ve ödev projeleri etkileşimli Google Colab defterleri olarak organize edilmiştir.
+# 🚀 ECS-Course |Yapay Zeka & Veri Analizi 
 
 ---
 
