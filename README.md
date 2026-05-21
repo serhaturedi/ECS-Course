@@ -4,3 +4,4 @@ Hafta 2 - Ders 1 - [Python Temelleri Devam](https://colab.research.google.com/dr
 Hafta 2 - Ders 2 - [Python Temelleri Son](https://colab.research.google.com/drive/1gylsbMLBqAjeI4UJwz3HNZE6ySea6TLO#scrollTo=BrVS6WV04qQx)<br>
 Hafta 2 - Ders 2 - [NumPy Giriş](https://colab.research.google.com/drive/1fG8p8s65FoNuM9EHbl_3dzJjsVec9OhR)<br>
 Hafta 3 - Ders 1 - [NumPy - Pandas](https://colab.research.google.com/drive/1SlzZACSOvnV5veGLIjwYrplibmVUD7GS#scrollTo=_QY2hI-JUeTo) <br>
+Hafta 3 - Ödev - [Google AI Studio App](https://colab.research.google.com/drive/1s8H9GUB9IzNBM74Z6m1xexl-2Ce47jcM)<br>
