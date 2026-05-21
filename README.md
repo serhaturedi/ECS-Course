@@ -6,3 +6,4 @@ Hafta 2 - Ders 2 - [NumPy Giriş](https://colab.research.google.com/drive/1fG8p8
 Hafta 3 - Ders 1 - [NumPy - Pandas](https://colab.research.google.com/drive/1SlzZACSOvnV5veGLIjwYrplibmVUD7GS#scrollTo=_QY2hI-JUeTo) <br>
 Hafta 3 - Ödev - [Google AI Studio App](https://colab.research.google.com/drive/1s8H9GUB9IzNBM74Z6m1xexl-2Ce47jcM)<br>
 Hafta 3 - Ders 2 - [Pandas devam](https://colab.research.google.com/drive/1l16kM7wt_xcBc908mJs5FsdKaxvuMyWC) <br>
+Hafta 3 - Ders 2 - [Tips Veri Seti - Restoran Bahşiş Analizi](https://colab.research.google.com/drive/1GsoPKHcFlp7rD7LNUJ8vMcH-J38iuSrC)<br>
