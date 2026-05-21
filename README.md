@@ -1,3 +1,14 @@
+# 🚀 ECS-Course | Python & Veri Analizi Yolculuğu
+
+Bu depo, eğitim sürecim boyunca geliştirdiğim veri bilimi, veri analizi ve yapay zeka çalışmalarını içermektedir. Tüm ders notları ve ödev projeleri etkileşimli Google Colab defterleri olarak organize edilmiştir.
+
+---
+
+## 📂 Müfredat ve Çalışmalar
+
+Aşağıdaki tablodan haftalık olarak işlenen derslere, pratik uygulamalara ve teslim edilen ödevlere doğrudan erişebilirsiniz.
+
+| Dönem / Hafta | Tür | Konu Başlığı | Erişim Linki |
 | :--- | :---: | :--- | :--- |
 | 📅 **Hafta 1** | 📖 Ders 2 | Python Temelleri | [📚 Colab Not Defteri](https://colab.research.google.com/drive/1X5a3KIH0NfmVGS1TsNgNsp-s53W_f6KE?usp=sharing) |
 | 📅 **Hafta 1** | 📝 Ödev | Öğrenci Kayıt Sistemi | [💻 Proje Sayfası](https://colab.research.google.com/drive/1qo1CIcoZwKiArpyQxCSBxwaw4in4CocJ) |
@@ -11,3 +22,13 @@
 
 ---
 
+## 🛠️ Yetkinlikler ve Araçlar
+
+Bu süreçte aktif olarak kullanılan ekosistem, programlama dilleri ve veri bilimi kütüphaneleri:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
+</p>
