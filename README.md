@@ -4,7 +4,6 @@
 
 ## 📂 Müfredat ve Çalışmalar
 
-Aşağıdaki tablodan haftalık olarak işlenen derslere, pratik uygulamalara ve teslim edilen ödevlere doğrudan erişebilirsiniz.
 
 | Dönem / Hafta | Tür | Konu Başlığı | Erişim Linki |
 | :--- | :---: | :--- | :--- |
