@@ -16,6 +16,7 @@
 | 📅 **Hafta 3** | 📝 Ödev | Google AI Studio App | [🤖 Proje Sayfası](https://colab.research.google.com/drive/1s8H9GUB9iZNBM74Z6m1ex1-2Ce47jcM) |
 | 📅 **Hafta 3** | 📖 Ders 2 | Advanced Pandas Operasyonları | [📊 Analiz Not Defteri](https://colab.research.google.com/drive/1116kM7wt_xcBc908mjs5FsdKaxvuMyWC) |
 | 📅 **Hafta 3** | 📊 Uygulama | Tips Veri Seti - Restoran Bahşiş Analizi | [📈 Veri Analiz Raporu](https://colab.research.google.com/drive/1GsoPKHcF1p7rD7LNUJ8vMCh-J38iuSrC) |
+| 📅 **Hafta 4** | 📊 Ders 1 | Tips Veri Seti Devam | [📊 Analiz Not Defteri](https://colab.research.google.com/drive/1GsoPKHcF1p7rD7LNUJ8vMCh-J38iuSrC) |
 
 ---
 
