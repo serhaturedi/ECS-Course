@@ -19,8 +19,9 @@
 | 📅 **Hafta 4** | 📊 Ders 1 | Tips Veri Seti Devam | [📊 Analiz Not Defteri](https://colab.research.google.com/drive/1GsoPKHcFlp7rD7LNUJ8vMcH-J38iuSrC?usp=sharing) |
 | 📅 **Hafta 5** | 📖 Ders 1 | Titanic | [📚 Kaggle](https://www.kaggle.com/code/serhattredi/titanic-veri-analizi) |
 | 📅 **Hafta 5** | 📖 Ders 2 | Teachable Machine | [📚 Colab](https://colab.research.google.com/drive/1kfnYqaPx6phRWa2tlccM0mng5rB01lOK?usp=sharing) |
-| 📅 **Hafta ** | 📖 Telafi | Titanic Devam | [📚 Kaggle](https://www.kaggle.com/code/serhattredi/titanic-veri-analizi) |
-| 📅 **Hafta 6** | 📖 Ders 1 | Titanic Yarışması Skoru | [📚 Kaggle](https://www.kaggle.com/code/serhattredi/titanic-veri-analizi) |
+| 📅 **Hafta 4** | 📖 Telafi | Titanic Devam | [📚 Kaggle](https://www.kaggle.com/code/serhattredi/titanic-veri-analizi) |
+| 📅 **Hafta 6** | 📖 Ders 1-2 | Titanic Yarışması Skoru | [📚 Kaggle](https://www.kaggle.com/code/serhattredi/titanic-veri-analizi) |
+| 📅 **Hafta 6** | 📖 Ders 2 | İkinci El Araç Fiyat Tahmini | [📚 Colab Not Defteri (https://colab.research.google.com/drive/1aC6NZTM7vCrFlcRRBK1MCbA8pwUj6WWG?usp=sharing) |
 
 ---
 
