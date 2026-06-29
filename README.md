@@ -22,7 +22,7 @@
 | 📅 **Hafta 4** | 📖 Telafi | Titanic Devam | [📚 Kaggle](https://www.kaggle.com/code/serhattredi/titanic-veri-analizi) |
 | 📅 **Hafta 6** | 📖 Ders 1-2 | Titanic Yarışması Skoru | [📚 Kaggle](https://www.kaggle.com/code/serhattredi/titanic-veri-analizi) |
 | 📅 **Hafta 6** | 📖 Ders 2 | İkinci El Araç Fiyat Tahmini | [📚 Colab Not Defteri](https://colab.research.google.com/drive/1aC6NZTM7vCrFlcRRBK1MCbA8pwUj6WWG?usp=sharing) |
-| 📅 **Hafta 7** | 📊 Ders 1 | İkinci El Araç Kayıt Modeli | [💻 Model Dosyası](https://colab.research.google.com/drive/1qo1CIcoZwKiArpyQxCSBxwaw4in4CocJ?usp=sharing) |
+| 📅 **Hafta 7** | 📊 Ders 1 | İkinci El Araç Kayıt Modeli | [💻 Model Dosyası](https://github.com/serhaturedi/ECS-Course/blob/main/model/car_pipe.pkl) |
 
 
 ---
