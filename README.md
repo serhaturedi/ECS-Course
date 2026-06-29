@@ -1,4 +1,4 @@
-# 🚀 ECS-Course |Yapay Zeka & Veri Analizi 
+# 🚀 ECS-Course | Yapay Zeka & Veri Analizi 
 
 ---
 
