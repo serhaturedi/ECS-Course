@@ -23,6 +23,7 @@
 | 📅 **Hafta 6** | 📖 Ders 1-2 | Titanic Yarışması Skoru | [📚 Kaggle](https://www.kaggle.com/code/serhattredi/titanic-veri-analizi) |
 | 📅 **Hafta 6** | 📖 Ders 2 | İkinci El Araç Fiyat Tahmini | [📚 Colab Not Defteri](https://colab.research.google.com/drive/1aC6NZTM7vCrFlcRRBK1MCbA8pwUj6WWG?usp=sharing) |
 | 📅 **Hafta 7** | 📊 Ders 1 | İkinci El Araç Kayıt Modeli | [💻 Model Dosyası](https://github.com/serhaturedi/ECS-Course/blob/main/model/car_pipe.pkl) |
+| 📅 **Hafta 7** | 📝 Ödev | Araç Fiyat Tahmin | [💻 Hugging Face](https://huggingface.co/spaces/Serhaturedi/AracFiyatTahmin) |
 
 
 ---
