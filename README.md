@@ -27,6 +27,7 @@
 | 📅 **Hafta 7** | 📖 Ders 2 | Graido ile Basit Form Oluşturma | [📚 Colab Not Defteri](https://colab.research.google.com/drive/1JWh9ke_r6hbstmX3hxd7nDeJoaiDYusX?usp=sharing) |
 | 📅 **Hafta 7** | 📖 Ders 3 | Covid Yarışan Grafikler | [📚 Colab Not Defteri](https://colab.research.google.com/drive/1jV731-qFooElLpiGlxQd3MBbOJiU43as?usp=sharing) |
 | 📅 **Hafta 7** | 📝 Ödev 2 | Nüfus Değişim Grafiği | [💻 Colab Not Defteri]() |
+| 📅 **Hafta 7** | 📖 Ders 3 NB 2 | Pandas ile Veri Çekme | [📚 Colab Not Defteri](https://colab.research.google.com/drive/1SF9i7AsIaRXxilZu2iCCMHW83lxxo4RE?usp=sharing) |
 
 ---
 
