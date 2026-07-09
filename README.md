@@ -31,6 +31,7 @@
 | 📅 **Hafta 7** | 📖 Ders 3 NB 3 | Bing Image Downloader | [📚 Colab Not Defteri](https://colab.research.google.com/drive/10BzUGJpJd3Z8_lXZz_K3EqvDfu4EZtER?usp=sharing) |
 | 📅 **Hafta 8** | 📖 Ders 1 | Topluluk Öğrenme Modelleri (Ensemble Learning) | [📚 Colab Not Defteri](https://colab.research.google.com/drive/1BU4-tuoyb_oNwk9Li8VCUV1bbbJ_l5Go?usp=sharing) |
 | 📅 **Hafta 8** | 📖 Ders 2 | Adidas Zaman Serisi Analizi | [📚 Colab Not Defteri](https://colab.research.google.com/drive/1A7NZhkaZBnRdNH6oQU_gESAkddglbak9?usp=sharing) |
+| 📅 **Hafta 8** | 📖 Ders 3 | Öneri Sistemleri | [📚 Colab Not Defteri](https://colab.research.google.com/drive/1lNfLIFQXAiLjhN0KCd9XvBhR3-DBLpCO?usp=sharing) |
 
 ---
 
