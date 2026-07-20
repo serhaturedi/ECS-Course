@@ -35,6 +35,7 @@
 | 📅 **Hafta 8** | 📖 Ders 3 | Öneri Sistemleri | [📚 Colab Not Defteri](https://colab.research.google.com/drive/1lNfLIFQXAiLjhN0KCd9XvBhR3-DBLpCO?usp=sharing) |
 | 📅 **Hafta 9** | 📖 Ders 1-2 - Ödev | İçerik Bazlı Öneri Arayüzü | [📚 Colab Not Defteri](https://colab.research.google.com/drive/1lNfLIFQXAiLjhN0KCd9XvBhR3-DBLpCO?usp=sharing) |
 | 📅 **Hafta 9** | 📖 Ders 3 | HF Model Çekme ve Kullanımı | [📚 Colab Not Defteri](https://colab.research.google.com/drive/1H9jv53jr1UBmwnynsELHNcQstE8J0G1Y?usp=sharing) |
+| 📅 **Hafta 10** | 📖 Ders 1 | HF Duygu Analizi Modeli | [📚 Colab Not Defteri](https://colab.research.google.com/drive/1TU2gFDbrXip_IV68_2DDZ6mWPkEeFoDs?usp=sharing) |
 
 ---
 
