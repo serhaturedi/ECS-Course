@@ -36,6 +36,8 @@
 | 📅 **Hafta 9** | 📖 Ders 1-2 - Ödev | İçerik Bazlı Öneri Arayüzü | [📚 Colab Not Defteri](https://colab.research.google.com/drive/1lNfLIFQXAiLjhN0KCd9XvBhR3-DBLpCO?usp=sharing) |
 | 📅 **Hafta 9** | 📖 Ders 3 | HF Model Çekme ve Kullanımı | [📚 Colab Not Defteri](https://colab.research.google.com/drive/1H9jv53jr1UBmwnynsELHNcQstE8J0G1Y?usp=sharing) |
 | 📅 **Hafta 10** | 📖 Ders 1 | HF Duygu Analizi Modeli | [📚 Colab Not Defteri](https://colab.research.google.com/drive/1TU2gFDbrXip_IV68_2DDZ6mWPkEeFoDs?usp=sharing) |
+| 📅 **Hafta 10** | 📖 Ders 2 | Gemini API Key | [📚 Colab Not Defteri](https://colab.research.google.com/drive/1OZS5StpaNY1ztxXICiOvu4rEyrT8dJSw?usp=sharing) |
+| 📅 **Hafta 10** | 📖 Ders 2 NB 2 | Gemini API Key | [📚 Colab Not Defteri](https://colab.research.google.com/drive/1IovALjutdhUz2sXGm52-e7wiPGc1DVF1?usp=sharing) |
 
 ---
 
