@@ -38,7 +38,7 @@
 | 📅 **Hafta 10** | 📖 Ders 1 | HF Duygu Analizi Modeli | [📚 Colab Not Defteri](https://colab.research.google.com/drive/1TU2gFDbrXip_IV68_2DDZ6mWPkEeFoDs?usp=sharing) |
 | 📅 **Hafta 10** | 📖 Ders 2 | Gemini API Key | [📚 Colab Not Defteri](https://colab.research.google.com/drive/1OZS5StpaNY1ztxXICiOvu4rEyrT8dJSw?usp=sharing) |
 | 📅 **Hafta 10** | 📖 Ders 2 NB 2 | Gemini API Key | [📚 Colab Not Defteri](https://colab.research.google.com/drive/1IovALjutdhUz2sXGm52-e7wiPGc1DVF1?usp=sharing) |
-
+| 📅 **Hafta 10** | 📖 Ders 2 NB 3 | Gemini Stream | [📚 Colab Not Defteri](https://colab.research.google.com/drive/1Tdg2XEcmi7XqfyxpaHbBGQRQMSbM3xrL?usp=sharing) |
 ---
 
 ## 🛠️ Yetkinlikler ve Araçlar
