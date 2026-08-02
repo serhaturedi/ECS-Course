@@ -7,7 +7,7 @@
 
 | Dönem / Hafta | Tür | Konu Başlığı | Erişim Linki |
 | :--- | :---: | :--- | :--- |
-| 📅 **Hafta 1** | 📖 Ders 1 | Giriş| [📚 Github](https://serhaturedi.github.io) |
+| 📅 **Hafta 1** | 📖 Ders 1 | Giriş| [🤖 Github](https://serhaturedi.github.io) |
 | 📅 **Hafta 1** | 📖 Ders 2 | Python Temelleri | [📚 Colab Not Defteri](https://colab.research.google.com/drive/1X5a3KIH0NfmVGSlTsNgNsp-s53W_f6KE?usp=sharing) |
 | 📅 **Hafta 1** | 📝 Ödev | Öğrenci Kayıt Sistemi | [💻 Proje Sayfası](https://colab.research.google.com/drive/1qo1CIcoZwKiArpyQxCSBxwaw4in4CocJ?usp=sharing) |
 | 📅 **Hafta 2** | 📖 Ders 1 | Python Temelleri (Devam) | [📚 Colab Not Defteri](https://colab.research.google.com/drive/1D5DYOo2V3bT8s8P83psMHRFW1NcG5pTK?usp=sharing) |
