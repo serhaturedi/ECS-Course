@@ -47,13 +47,29 @@
 
 ---
 
-## 🛠️ Yetkinlikler ve Araçlar
+## 🛠️ Yetkinlikler ve Teknolojik Ekosistem
 
-Bu süreçte aktif olarak kullanılan ekosistem, programlama dilleri ve veri bilimi kütüphaneleri:
+Bu eğitim süresince veri analitiği, makine öğrenmesi, büyük dil modelleri (LLM) ve bilgisayarlı görü alanlarında aktif olarak kullanılan teknolojiler:
 
+### 🐍 Programlama & Veri Analizi
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+</p>
+
+### 🤖 Yapay Zeka, NLP & Bilgisayarlı Görü
+<p align="left">
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini API" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/Gradio-FF5500?style=for-the-badge&logo=gradio&logoColor=white" alt="Gradio" />
+</p>
+
+### ☁️ Platformlar & Geliştirme Ortamları
+<p align="left">
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
