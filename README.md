@@ -41,6 +41,7 @@
 | 📅 **Hafta 10** | 📖 Ders 2 NB 3 | Gemini Stream | [📚 Colab Not Defteri](https://colab.research.google.com/drive/1Tdg2XEcmi7XqfyxpaHbBGQRQMSbM3xrL?usp=sharing) |
 | 📅 **Hafta 10** | 📖 Ders 3 | Haber Özetleme | [📚 Colab Not Defteri](https://colab.research.google.com/drive/1nqYqcw7_xdpIv95tnKRoGsSwOGZihs3b?usp=sharing) |
 | 📅 **Hafta 11** | 📖 Ders 1 | OpenCV Uygulamaları | [📚 Colab Not Defteri](https://colab.research.google.com/drive/1Bfccu2ygGnXWYqm7C1pjnm-UrNQg03HN?usp=sharing) |
+| 📅 **Hafta 11** | 📖 Ders 2 | Vibe Coding -  Antigravity üzerinden yapıldı | []() |
 ---
 
 ## 🛠️ Yetkinlikler ve Araçlar
