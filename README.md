@@ -45,6 +45,7 @@
 | 📅 **Hafta 11** | 📖 Ders 2 | Vibe Coding -  Antigravity üzerinden yapıldı | []() |
 | 📅 **Hafta 11** | 📖 Ders 3 | Derin Öğrenme - Tek Nöron | [📚 Colab Not Defteri](https://colab.research.google.com/drive/1utdrhrdpouUnBi6G8k4TRJkfu3_M0781?usp=sharing) |
 | 📅 **Hafta 12** | 📖 Ders 1 | MNIST Rakam Tanıma | [📚 Colab Not Defteri](https://colab.research.google.com/drive/11l9XaaMqQ-9L08f-LDAxm8YwUvCIGfEt?usp=sharing) |
+| 📅 **Hafta 12** | 📖 Ders 1 NB 2 | ResNet ile Nesne Tanıma| [📚 Colab Not Defteri](https://colab.research.google.com/drive/1lcXfBfA8GgVWqSnmLQRZv8JtLfsUZ0N8?usp=sharing) |
 
 
 ---
